@@ -1,0 +1,11 @@
+cancelamento: 
+  safetypay: 
+    info_important: Para solicitar o cancelamento desta passagem, clique em solicitar cancelamento abaixo. Nossa central de atendimento entrará em contato, no prazo de 2 dias úteis, para confirmar as informações e valores para cancelamento.
+    termos_cancelamento: Compreendo e aceito que esta ação se trata apenas de uma solicitação e que não cancela automaticamente minha passagem. A efetivação do cancelamento, acontecerá somente após a central de atendimento entrar em contato para informar as condições de cancelamento e o cliente aceitá-las.
+    info_cancelamento: Seu pedido de cancelamento foi recebido e está sendo processado. Aguarde nossa Central de Atendimento entrar em contato com você.
+  cartao:
+    info_important: 
+      - 'O cancelamento gratuito é válido apenas dentro das 24 horas à partir do horário da emissão e desde que a data do voo de partida aconteça com mais de 7 dias de antecedência à data da emissão.'
+      - 'Prazo: ViajaNet envia a solicitação para o banco em até 2 dias úteis. Prazo para o cliente receber na fatura pode variar de acordo com o prazo do banco emissor'
+      - 'Lembramos que as parcelas poderão continuar a ser debitadas em seu cartão de crédito até que a cia. aérea faça um crédito único em seu cartão'
+    termos_cancelamento: 'Li e aceito os seguintes termos: O cancelamento da passagem aérea pelo cliente é irrevogável e implicará na impossibilidade de sua reativação junto à companhia aérea, com o consequente cancelamento do respectivo assento no voo.'

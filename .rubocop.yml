@@ -1,0 +1,23 @@
+AllCops:
+  NewCops: enable
+Metrics/AbcSize:
+  Enabled: false
+Metrics/LineLength:
+  Max: 140
+Metrics/MethodLength:
+  Max: 40
+Metrics/ClassLength:
+  Max: 1000
+Metrics/CyclomaticComplexity:
+  Max: 15
+Metrics/PerceivedComplexity:
+  Max: 15
+Metrics/ParameterLists:
+  Description: Verifica a quantidade de parametros no metodo
+  Max: 4
+  MaxOptionalParameters: 4
+Style/AccessorGrouping:
+  Description: 'Verifica o agrupamento das classes'
+  EnforcedStyle: separated
+Style/Encoding: 
+  Enabled: false

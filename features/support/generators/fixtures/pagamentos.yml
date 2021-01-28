@@ -1,0 +1,25 @@
+Bandeiras:
+  Visa:
+    numero-cartao: 4111111111111111
+    descricao: VISA
+  Mastercard:
+    numero-cartao: 5454545454545454
+    descricao: Master
+  Elo:
+    numero-cartao: 5066991111111118
+    descricao: ELO
+  American Express:
+    numero-cartao: 370000000000002
+    descricao: Amex
+  Diners:
+    numero-cartao: 36006666333344
+    descricao: Dinners
+  Hipercard:
+    numero-cartao: 6062828888666688
+    descricao: HiperCard
+Bancos:
+  - banco: Itaú
+  - banco: Santander
+  - banco: Bradesco
+  - banco: Banco do Brasil
+  - banco: Banrisul

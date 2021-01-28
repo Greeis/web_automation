@@ -1,0 +1,42 @@
+# profiles 
+default: -p homolog_capa -p chrome
+ci: -p json_report -p stage --retry 2
+ 
+# Relatorios
+html_report: --format html --out=logs/html/report.html
+json_report: --format json --out=logs/json/report.json
+
+# modo de execução
+bdd: --format pretty
+dot: --format progress
+
+# Ambientes
+stage: AMBIENTE=stage -p bdd -p json_report
+producao: AMBIENTE=producao -p bdd -p json_report
+homolog_alpha: AMBIENTE=alpha -p bdd -p json_report
+homolog_beta: AMBIENTE=beta -p bdd -p json_report
+homolog_capa: AMBIENTE=capa -p bdd -p json_report
+homolog_delta: AMBIENTE=delta -p bdd -p json_report
+homolog_epsilon: AMBIENTE=epsilon -p bdd -p json_report
+homolog_eta: AMBIENTE=eta -p dot -p json_report
+homolog_fox: AMBIENTE=fox -p bdd -p json_report
+homolog_gama: AMBIENTE=gama -p bdd -p json_report
+homolog_iota: AMBIENTE=iota -p bdd -p json_report
+homolog_lambda: AMBIENTE=lambda -p bdd -p json_report
+homolog_omega: AMBIENTE=omega -p bdd -p json_report
+homolog_omicron: AMBIENTE=omicron -p bdd -p json_report
+homolog_papa: AMBIENTE=papa -p bdd -p json_report
+homolog_pi: AMBIENTE=pi -p bdd -p json_report
+homolog_sigma: AMBIENTE=sigma -p bdd -p json_report
+homolog_tango: AMBIENTE=tango -p bdd -p json_report
+homolog_tau: AMBIENTE=tau -p bdd -p json_report
+homolog_teta: AMBIENTE=teta -p bdd -p json_report
+homolog_zeta: AMBIENTE=zeta -p bdd -p json_report
+homolog_zulu: AMBIENTE=zulu -p bdd -p json_report
+
+# BROWSER
+chrome: BROWSER=chrome
+chrome_headless: BROWSER=chrome_headless
+firefox: BROWSER=firefox
+firefox_headless: BROWSER=firefox_headless
+safari: BROWSER=safari

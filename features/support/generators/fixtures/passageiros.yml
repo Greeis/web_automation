@@ -1,0 +1,18 @@
+# ATENÇÃO: Para execucao dos cenario de fechamento de pedido LOCAL alterar o nome dos passageiros 
+#          de acordo com o nome dos integrantes do seu time
+
+###################################
+#                                 #
+#           Passageiros           #
+#                                 #
+###################################
+Passageiros:
+  Nomes:
+    - Graziele
+    - Emerson
+    - Leonardo
+    - Fernando
+    - Rodrigo
+    - Fabio
+  Sobrenomes:
+    - Globeckner

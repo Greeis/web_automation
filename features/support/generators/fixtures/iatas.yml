@@ -1,0 +1,216 @@
+Internacional:
+  Origem:
+    - destino: Porto
+      descricao_completa: Porto, Porto, Portugal (OPO)
+      iata: OPO
+      cidade: Porto
+      aeroporto: Porto
+    - destino: Rom
+      descricao_completa: Roma, Fiumicino, Itália (FCO)
+      iata: FCO
+      cidade: Roma
+      aeroporto: Fiumicino
+    - destino: Barc
+      descricao_completa: Barcelona, Barcelona, Espanha (BCN)
+      iata: BCN
+      cidade: Barcelona
+      aeroporto: Barcelona
+    - destino: Fran
+      descricao_completa: Frankfurt, Internacional de Frankfurt am Main, Alemanha (FRA)
+      iata: FRA
+      cidade: Frankfurt
+      aeroporto: Internacional de Frankfurt am Main
+    - destino: Dub
+      descricao_completa: Dublin, Dublin, Irlanda (DUB)
+      iata: DUB
+      cidade: Dublin
+      aeroporto: Dublin
+    - destino: Lond
+      descricao_completa: Londres, Heathrow, Inglaterra (LHR)
+      iata: LHR
+      cidade: Londres
+      aeroporto: Heathrow
+    - destino: Add
+      descricao_completa: Addis Ababa, Addis Ababa Bole Internacional, Etiópia (ADD)
+      iata: ADD
+      cidade: Addis Ababa
+      aeroporto: Addis Ababa Bole Internacional
+    - destino: Madr
+      descricao_completa: Madri, Barajas, Espanha (MAD)
+      iata: MAD
+      cidade: Madri
+      aeroporto: Barajas
+    - destino: Seul
+      descricao_completa: Seul, Internacional Incheon, Coréia do Sul - (ICN)
+      iata: ICN
+      cidade: Seul
+      aeroporto: Internacional Incheon
+    - destino: Casa
+      descricao_completa: Casablanca, Mohamed V, Marrocos (CMN)
+      iata: CMN
+      cidade: Casablanca
+      aeroporto: Mohamed V
+    - destino: Sin
+      descricao_completa: Singapura, Changi, Singapura (SIN)
+      iata: SIN
+      cidade: Singapura
+      aeroporto: Changi
+    - destino: Bue 
+      descricao_completa: Buenos Aires, Ministro Pistarini, Argentina (EZE)
+      iata: EZE
+      cidade: Buenos Aires
+      aeroporto: Ministro Pistarini
+  Destino:
+    - destino: Rom
+      descricao_completa: Roma, Fiumicino, Itália (FCO)
+      iata: FCO
+      cidade: Roma
+      aeroporto: Fiumicino
+    - destino: Lisb
+      descricao_completa: Lisboa, Lisboa, Portugal (LIS)
+      iata: LIS
+      cidade: Lisboa
+      aeroporto: Lisboa
+    - destino: Ber
+      descricao_completa: Berlim, Tegel, Alemanha (TXL)
+      iata: TXL
+      cidade: Berlim
+      aeroporto: Tegel
+    - destino: Dub
+      descricao_completa: Dublin, Dublin, Irlanda (DUB)
+      iata: DUB
+      cidade: Dublin
+      aeroporto: Dublin
+    - destino: Osl
+      descricao_completa: Oslo, Oslo, Noruega (OSL)
+      iata: OSL
+      cidade: Oslo
+      aeroporto: Oslo
+    - destino: Val
+      descricao_completa: Valência, Valencia, Espanha (VLC)
+      iata: VLC
+      cidade: Valência
+      aeroporto: Valencia
+    - destino: Nai
+      descricao_completa: Nairobi, Jomo Kenyatta Internacional, Quênia (NBO)
+      iata: NBO
+      cidade: Nairobi
+      aeroporto: Jomo Kenyatta Internacional
+    - destino: Barc
+      descricao_completa: Barcelona, Barcelona, Espanha (BCN)
+      iata: BCN
+      cidade: Barcelona
+      aeroporto: Barcelona
+    - destino: Toq
+      descricao_completa: Tóquio, Haneda, Japão - (HND)
+      iata: HND
+      cidade: Tóquio
+      aeroporto: Haneda
+    - destino: Marr
+      descricao_completa: Marrakech, Menara, Marrocos (RAK)
+      iata: RAK
+      cidade: Marrakech
+      aeroporto: Menara
+    - destino: Ban
+      descricao_completa: Bangkok, Don Muang, Tailândia (DMK)
+      iata: DMK
+      cidade: Bangkok
+      aeroporto: Don Muangs
+    - destino: Sant 
+      descricao_completa: Santiago, Arturo Merino Benitez, Chile (SCL)
+      iata: SCL
+      cidade: Santiago
+      aeroporto: Arturo Merino Benitez
+Nacional:
+  Origem:
+    - destino: Sao
+      descricao_completa: São Paulo, Guarulhos Internacional, Brasil (GRU)
+      iata: GRU
+      cidade: São Paulo
+      aeroporto: Guarulhos Internacional
+    - destino: Sao
+      descricao_completa: São Paulo, Congonhas, Brasil (CGH)
+      iata: CGH
+      cidade: São Paulo
+      aeroporto: Congonhas
+    - destino: Rio de
+      descricao_completa: Rio de Janeiro, Santos Dumont, Brasil (SDU)
+      iata: SDU
+      cidade: Rio de Janeiro
+      aeroporto: Santos Dumont
+    - destino: Bras
+      descricao_completa: Brasília, Juscelino Kubitschek, Brasil (BSB)
+      iata: BSB
+      cidade: Brasília
+      aeroporto: Juscelino Kubitschek
+    - destino: Por
+      descricao_completa: Porto Alegre, Salgado Filho, Brasil (POA)
+      iata: POA
+      cidade: Porto Alegre
+      aeroporto: Salgado Filho
+    - destino: Cur
+      descricao_completa: Curitiba, Afonso Pena, Brasil (CWB)
+      iata: CWB
+      cidade: Curitiba
+      aeroporto: Afonso Pena
+  Destino:
+    - destino: Recif
+      descricao_completa: Recife, Internacional dos Guararapes - Gilberto Freyre, Brasil (REC)
+      iata: REC
+      cidade: Recife
+      aeroporto: Internacional dos Guararapes - Gilberto Freyre
+    - destino: Salv
+      descricao_completa: Salvador, Luis E. Magalhães, Brasil (SSA)
+      iata: SSA
+      cidade: Salvador
+      aeroporto: Luis E. Magalhães
+    - destino: For
+      descricao_completa: Fortaleza, Pinto Martins, Brasil (FOR)
+      iata: FOR
+      cidade: Fortaleza
+      aeroporto: Pinto Martins
+    - destino: Belo
+      descricao_completa: Belo Horizonte, Internacional Tancredo Neves, Brasil (CNF)
+      iata: CNF
+      cidade: Belo Horizonte
+      aeroporto: Internacional Tancredo Neves
+    - destino: Flo
+      descricao_completa: Florianópolis, Hercilio Luz, Brasil (FLN)
+      iata: FLN
+      cidade: Florianópolis
+      aeroporto: Hercilio Luz
+    - destino: Goi
+      descricao_completa: Goiânia, Santa Genoveva, Brasil (GYN)
+      iata: GYN
+      cidade: Goiânia
+      aeroporto: Santa Genoveva
+    - destino: Vit
+      descricao_completa: Vitoria Da Conquista, Vitória da Conquista, Brasil (VDC)
+      iata: VDC
+      cidade: Vitoria Da Conquista
+      aeroporto: Vitória da Conquista
+    - destino: Nat
+      descricao_completa: Natal, Sao Gonçalo do Amarante, Brasil (NAT)
+      iata: NAT
+      cidade: Natal
+      aeroporto: Sao Gonçalo do Amarante
+    - destino: Mac
+      descricao_completa: Maceió, Palmares, Brasil (MCZ)
+      iata: MCZ
+      cidade: Maceió
+      aeroporto: Palmares
+    - destino: Foz
+      descricao_completa: Foz do Iguaçu, Cataratas, Brasil (IGU)
+      iata: IGU
+      cidade: Foz do Iguaçu
+      aeroporto: Cataratas
+    - destino: Por
+      descricao_completa: Porto Seguro, Porto Seguro, Brasil (BPS)
+      iata: BPS
+      cidade: Porto Seguro
+      aeroporto: Porto Seguro
+    - destino: Ilhe
+      descricao_completa: Ilhéus, Jorge Amado, Brasil (IOS)
+      iata: IOS
+      cidade: Ilhéus
+      aeroporto: Jorge Amado
